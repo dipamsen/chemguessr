@@ -1,0 +1,27 @@
+{
+  "short_name": "ChemGuessr",
+  "name": "ChemGuessr: A Inorganic Chemistry Quiz",
+  "icons": [
+    {
+      "src": "/icons-400.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#CF5260",
+  "display": "standalone",
+  "orientation": "landscape",
+  "scope": "/",
+  "theme_color": "#CF5260",
+  "shortcuts": [
+    {
+      "name": "Composer",
+      "short_name": "Create",
+      "description": "Add new content",
+      "url": "/composer?source=pwa"
+    }
+  ],
+  "description": "Inorganic Chemistry Quiz"
+}
